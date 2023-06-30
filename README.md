@@ -45,7 +45,7 @@ Cuerpo: Nombre completo, correo, número de teléfono, link del repositorio prop
 
 1 Customer Churn
 
-2 Time Series
+2 Time Series Forecasting
 
 3 Customer Segmentation
 
