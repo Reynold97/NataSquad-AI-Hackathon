@@ -1,4 +1,4 @@
-# Problema 3 Segmentación de clientes
+# Problema 3 Customer Segmentation
 
 ## Introducción
 
