@@ -90,6 +90,7 @@ Los criterios de evaluación en orden de importancia son:
 •	Comparación de resultados: Comparación del rendimiento de los modelos en los problemas de Ciencia de Datos y la calidad de las respuestas en los problemas de IA Generativa.
 
 ## Contacto
+
 Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.
 
 Correo: ai.hackathon@natasquad.com
