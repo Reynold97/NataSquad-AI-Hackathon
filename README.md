@@ -41,7 +41,21 @@ Título: {Nombre} {1er Apellido} Problema {#} {Nombre del problema} (todo espaci
 
 Cuerpo: Nombre completo, correo, número de teléfono, link del repositorio propio con la respuesta. Cualquier información adicional o de contacto que estimen conveniente.
 
-Los nombres de problemas son: Customer Churn, Time Series, Customer Segmentation, Fraud Detection, Summarizing with LLM, QR Code Design, Customized Event Flyers.
+Los problemas son: 
+
+1 Customer Churn
+
+2 Time Series
+
+3 Customer Segmentation
+
+4 Fraud Detection
+
+5 Summarizing with LLM
+
+6 QR Code Design
+
+7 Customized Event Flyers
 
 #### Ejemplo:
 
