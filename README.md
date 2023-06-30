@@ -35,13 +35,13 @@ El método de participación es levantando una Issue en el repositorio del event
 
 El título de la Issue debe tener la estructura que se dará a continuación, de no seguir la estructura no se tendrá en cuenta la participación puesto que es de vital importancia para la organización.
 
-#### Estructura:
+### Estructura:
 
 Título: {Nombre} {1er Apellido} Problema {#} {Nombre del problema} (todo espaciado).
 
 Cuerpo: Nombre completo, correo, número de teléfono, link del repositorio propio con la respuesta. Cualquier información adicional o de contacto que estimen conveniente.
 
-Los problemas son: 
+### Los problemas son: 
 
 1 Customer Churn
 
@@ -57,7 +57,7 @@ Los problemas son:
 
 7 Customized Event Flyers
 
-#### Ejemplo:
+### Ejemplo:
 
 Título:  Reynold Oramas Problema 1 Customer Churn.
 
