@@ -6,9 +6,9 @@ Natasquad es una empresa de origen francés pionera en el desarrollo de solucion
 
 ## Sobre el Evento
 
-El evento consta de 4 problemas de Data Science y 3 problemas de IA generativa. Los participantes tienen total libertad para elegir el campo que más les interesa y seleccionar el problema que prefieran dentro de ese campo. No es necesario alcanzar los primeros lugares para conseguir la oportunidad laboral, ya que buscamos formar un equipo más grande. Después del hackathon, todos los participantes que hayan resuelto uno de los problemas cumpliendo todos los requisitos y siguiendo buenas prácticas podrán enviar sus CV y participar en una entrevista.
+El evento consta de 4 problemas de Machine Learning y 3 problemas de IA generativa. Los participantes tienen total libertad para elegir el campo en el que más les interesaría trabajar con nosotros y seleccionar el problema que prefieran dentro de ese campo. No es necesario alcanzar los primeros lugares para conseguir la oportunidad laboral, ya que buscamos formar un equipo más grande. Después del hackathon, todos los participantes que hayan resuelto uno de los problemas cumpliendo todos los requisitos y siguiendo buenas prácticas podrán enviar sus CV y participar en una entrevista.
 
-Los problemas están diseñados para ser resueltos en un período de 2 semanas trabajando 2 horas diarias. Sin embargo, no hay límites en la cantidad de problemas a resolver. Los participantes deben tener en cuenta que la evaluación para el ranking del hackathon será por un solo problema, el cual deben especificar. No obstante, para la etapa posterior de entrevistas pueden preparar más problemas e incluso en ambos campos de IA generativa y Data Science.
+Los problemas están diseñados para ser resueltos en un período de 2 semanas trabajando 2 horas diarias. Los participantes deben tener en cuenta que la evaluación para el ranking del hackathon será por UN SOLO PROBLEMA, el cual deben especificar, en la sección de Modelo de participacion se explicará cómo. No obstante, para la etapa posterior de entrevistas pueden preparar más problemas e incluso en ambos campos de IA generativa y Machine Learning.
 
 ## Beneficios
 
@@ -28,12 +28,12 @@ Esperamos ver tu participación en este emocionante evento. ¡Buena suerte a tod
 
 ## Modelo de participación.
 
-El repositorio consta de dos carpetas en donde están los problemas de Data Science e IA Generativa respectivamente. Cada problema tiene su carpeta dedicada en donde podrán encontrar información introductoria sobre cada uno. En la fecha marcada para el inicio del evento se actualizará el repositorio con toda la información de cada problema y los juegos de datos en los casos que sean necesarios. 
+El repositorio consta de dos carpetas en donde están los problemas de Machine Learning e IA Generativa respectivamente. Cada problema tiene su carpeta dedicada en donde podrán encontrar información introductoria sobre cada uno. En la fecha marcada para el inicio del evento se actualizará el repositorio con toda la información de cada problema y los juegos de datos en los casos que sean necesarios. 
 El método de participación es levantando una Issue en el repositorio del evento. 
 
 #### MUY IMPORTANTE
 
-El título de la Issue debe tener la estructura que se dará a continuación, de no seguir la estructura no se tendrá en cuenta la participación puesto que es de vital importancia para la organización.
+La Issue debe tener la estructura que se dará a continuación, de no seguir la estructura no se tendrá en cuenta la participación puesto que es de vital importancia para la organización.
 
 ### Estructura:
 
@@ -71,7 +71,7 @@ Correo: ai.hackathon@natasquad.com
 
 Número de teléfono: ********
 
-Repositorio: https://github.com/Reynold97/NataSquad-AI-Hackathon.git.
+Repositorio de solución: https://github.com/Reynold97/NataSquad-AI-Hackathon.git.
 
 Se debe tener en cuenta que las Issue se verán de manera pública, por lo que se recomienda esperar hasta el último día para hacer la entrega de las respuestas. 
 
@@ -99,9 +99,9 @@ Los criterios de evaluación en orden de importancia son:
 
 •	Código limpio: Mantener bien estructurado y comentado el código de la solución.
 
-•	Buenas prácticas: Todos los problemas, en especial los de Ciencia de Datos que son problemas clásicos del campo, tienen características, métodos, “do’s & don’ts” que deben ser respetados.
+•	Buenas prácticas: Todos los problemas, en especial los de Machine Learning que son problemas clásicos del campo, tienen características, métodos, “do’s & don’ts” que deben ser respetados.
 
-•	Comparación de resultados: Comparación del rendimiento de los modelos en los problemas de Ciencia de Datos y la calidad de las respuestas en los problemas de IA Generativa.
+•	Comparación de resultados: Comparación del rendimiento de los modelos en los problemas de Machine Learning y la calidad de las respuestas en los problemas de IA Generativa.
 
 ## Contacto
 
