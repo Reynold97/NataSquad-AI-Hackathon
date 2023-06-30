@@ -1,4 +1,30 @@
-# NataSquad-AI-Hackathon
+# Bienvenidos al Hackathon de IA de Natasquad
+
+## Introducción
+
+Natasquad se complace en anunciar nuestro primer Hackathon de Inteligencia Artificial y Data Science, exclusivamente diseñado para jóvenes cubanos graduados en carreras técnicas, como ciencias de la computación, ingeniería de software y otras áreas relacionadas. Nuestro objetivo principal es identificar y atraer talentos prometedores para ofrecerles una oportunidad laboral en Natasquad. Estamos en busca de formar un equipo de trabajo multidisciplinario capaz de resolver problemas y crear productos en IA generativa, Machine Learning y Data Science.
+
+## Sobre el Evento
+
+El evento consta de 4 problemas de Data Science y 3 problemas de IA generativa. Los participantes tienen total libertad para elegir el campo que más les interesa y seleccionar el problema que prefieran dentro de ese campo. No es necesario alcanzar los primeros lugares para conseguir la oportunidad laboral, ya que buscamos formar un equipo más grande. Después del hackathon, todos los participantes que hayan resuelto uno de los problemas cumpliendo todos los requisitos y siguiendo buenas prácticas podrán enviar sus CV y participar en una entrevista.
+
+Los problemas están diseñados para ser resueltos en un período de 2 semanas trabajando 2 horas diarias. Sin embargo, no hay límites en la cantidad de problemas a resolver. Los participantes deben tener en cuenta que la evaluación para el ranking del hackathon será por un solo problema, el cual deben especificar. No obstante, para la etapa posterior de entrevistas pueden preparar más problemas e incluso en ambos campos de IA generativa y Data Science.
+
+## Beneficios
+
+Los beneficios para los participantes son muchos. En primer lugar, el impacto para sus carreras y CV, ya que estarán participando en un evento de carácter nacional auspiciado por una empresa extranjera. Tendrán la oportunidad de resolver problemas reales que tienen un impacto real en empresas y negocios de todo el mundo a día de hoy. La competencia por las carreras de IA está en auge y, sobre todo desde Cuba, es un camino profesional bastante difícil debido a la escasez de oportunidades. Ahora, los concursantes tienen la posibilidad de participar en un evento exclusivamente hecho para cubanos y, posteriormente, trabajar con una empresa francesa en desarrollo de IA, independientemente de su nivel de senioridad.
+
+## Premios
+
+Además de la invaluable oportunidad de crecimiento profesional y laboral, también ofrecemos premios tangibles a los ganadores del hackathon:
+
+•	Primer lugar: Un viaje a Francia con todos los gastos pagados durante 30 a 60 días.
+
+•	Segundo lugar: Una nueva laptop.
+
+•	Tercer lugar: Un smartphone nuevo.
+
+Esperamos ver tu participación en este emocionante evento. ¡Buena suerte a todos los concursantes!
 
 ## Modelo de participación.
 
@@ -45,7 +71,7 @@ Se debe tener en cuenta que las Issue se verán de manera pública, por lo que s
 
 •	El repositorio de respuesta debe contener un archivo README.md donde pueden dar la información que requieran, un archivo requirements.txt con todos los paquetes necesarios para correr la solución y un jupyter notebook con la solución al problema.
 
-•	Para la solución de problemas de IA Generativa se les compartirá a los participantes una llave de OpenAI o de Stable Diffusion la cual deben solicitar escribiendo al correo del evento ai.hackathon@natasquad.com. IMPORTANTE, las llaves son únicas y no deben ser expuestas de manera pública o se invalidarán.  MUY IMPORTANTE, aunque cada participante tendrá una llave única serán de una cuenta compartida que contará con fondos razonables pero limitados, por tanto, es necesario apelar a la responsabilidad colectiva y que estos recursos solamente se utilicen para su investigación y no para cargas de trabajo de mayor volumen. 
+•	Para la solución de problemas de IA Generativa se les compartirá a los participantes una llave de OpenAI o de Stable Diffusion la cual deben solicitar escribiendo al correo del evento ai.hackathon@natasquad.com. IMPORTANTE, las llaves son únicas y no deben ser expuestas de manera pública o se invalidarán.  MUY IMPORTANTE, aunque cada participante tendrá una llave única, serán de una cuenta compartida que contará con fondos razonables pero limitados, por tanto, es necesario apelar a la responsabilidad colectiva y que estos recursos solamente se utilicen para su investigación y no para cargas de trabajo de mayor volumen. Las llaves se liberarán el día que comience el evento. 
 
 •	Este hackathon de IA es un evento multidisciplinario, pero comparte un mismo ranking. Primeramente, se escogerá el mejor trabajo de cada problema y luego se conformará el ranking final, pensamos que es la forma más equitativa y motiva la participación en todos los campos. 
 
@@ -63,3 +89,11 @@ Los criterios de evaluación en orden de importancia son:
 
 •	Comparación de resultados: Comparación del rendimiento de los modelos en los problemas de Ciencia de Datos y la calidad de las respuestas en los problemas de IA Generativa.
 
+## Contacto
+Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.
+
+Correo: ai.hackathon@natasquad.com
+
+## Conclusión
+
+Este es un evento único y una gran oportunidad para impulsar tu carrera en IA. Esperamos tu participación y estamos emocionados de ver las soluciones innovadoras que puedes aportar a nuestros desafíos. ¡Buena suerte a todos los participantes!
