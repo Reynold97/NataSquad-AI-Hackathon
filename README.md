@@ -37,7 +37,7 @@ El título de la Issue debe tener la estructura que se dará a continuación, de
 
 #### Estructura:
 
-Título: <Nombre> <1er Apellido> Problema <#> <Nombre del problema> (todo espaciado).
+Título: {Nombre} {1er Apellido} Problema <#> {Nombre del problema} (todo espaciado).
 
 Cuerpo: Nombre completo, correo, número de teléfono, link del repositorio propio con la respuesta. Cualquier información adicional o de contacto que estimen conveniente.
 
