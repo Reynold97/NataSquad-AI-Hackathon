@@ -1,8 +1,8 @@
-# Bienvenidos al Hackathon de IA de Natasquad
+# Bienvenidos al Hackathon de IA de NataSquad
 
 ## Introducción
 
-Natasquad es una empresa de origen francés pionera en el desarrollo de soluciones empresariales con Inteligencia Artificial. Nos complace anunciar nuestro primer Hackathon de Inteligencia Artificial, exclusivamente diseñado para jóvenes cubanos graduados en carreras técnicas, como ciencias de la computación, ingeniería de software y otras áreas relacionadas. Nuestro objetivo principal es identificar y atraer talentos prometedores para ofrecerles una oportunidad laboral en Natasquad. Estamos en busca de formar un equipo de trabajo multidisciplinario capaz de resolver problemas y crear productos en IA generativa, Machine Learning y Data Science.
+NataSquad es una empresa de origen francés pionera en el desarrollo de soluciones empresariales con Inteligencia Artificial. Nos complace anunciar nuestro primer Hackathon de Inteligencia Artificial, exclusivamente diseñado para jóvenes cubanos graduados en carreras técnicas, como ciencias de la computación, ingeniería de software y otras áreas relacionadas. Nuestro objetivo principal es identificar y atraer talentos prometedores para ofrecerles una oportunidad laboral en NataSquad. Estamos en busca de formar un equipo de trabajo multidisciplinario capaz de resolver problemas y crear productos en IA generativa, Machine Learning y Data Science.
 
 ## Sobre el Evento
 
