@@ -117,11 +117,13 @@ Este es un evento único y una gran oportunidad para impulsar tu carrera en IA. 
 
 ## Créditos
 
-### Organización y evaluación. 
+### Organización y evaluación 
 
 https://github.com/Reynold97
 
 https://github.com/lasan90
+
+### Evaluación
 
 https://github.com/rolysr
 
