@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El pronóstico de series temporales es una técnica analítica esencial que se basa en el uso de datos históricos para predecir futuros comportamientos. Este método se basa en la premisa de que las tendencias y patrones observados en el pasado pueden ayudar a predecir eventos futuros. En este problema, se pide a los participantes que apliquen este enfoque para predecir el horizonte de pronóstico 'H', es decir, los siguientes períodos (días, horas, semanas, etc.) basándose en los patrones de los datos históricos de demanda de electricidad.
+El pronóstico de series temporales es una técnica analítica esencial que se basa en el uso de datos históricos para predecir futuros comportamientos. Este método se basa en la premisa de que las tendencias y patrones observados en el pasado pueden ayudar a predecir eventos futuros. En este problema, se pide a los participantes que apliquen este enfoque para predecir el horizonte de pronóstico 'H', es decir, los siguientes períodos (días, horas, semanas, etc.) basándose en los patrones de los datos históricos de demanda de electricidad de cierto país.
 
 ## Importancia 
 
