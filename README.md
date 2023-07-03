@@ -109,6 +109,8 @@ Si tienes alguna pregunta o necesitas más información, no dudes en contactarno
 
 Correo: ai.hackathon@natasquad.com
 
+Grupo de Telegram: https://t.me/hackathonparacubanos
+
 ## Conclusión
 
 Este es un evento único y una gran oportunidad para impulsar tu carrera en IA. Esperamos tu participación y estamos emocionados de ver las soluciones innovadoras que puedes aportar a nuestros desafíos. ¡Buena suerte a todos los participantes!
