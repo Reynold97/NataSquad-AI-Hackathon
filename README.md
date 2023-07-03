@@ -112,3 +112,14 @@ Correo: ai.hackathon@natasquad.com
 ## Conclusión
 
 Este es un evento único y una gran oportunidad para impulsar tu carrera en IA. Esperamos tu participación y estamos emocionados de ver las soluciones innovadoras que puedes aportar a nuestros desafíos. ¡Buena suerte a todos los participantes!
+
+## Créditos
+
+### Organización y evaluación. 
+
+https://github.com/Reynold97
+
+https://github.com/lasan90
+
+https://github.com/rolysr
+
