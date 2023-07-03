@@ -1,4 +1,4 @@
-# QR Code Design
+# Problema 6 QR Code Design
 
 ## Introducción
 
