@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Las IA de generación de imágenes se refieren a una clase de algoritmos de inteligencia artificial conocidos como modelos generativos. Estos modelos se entrenan con grandes cantidades de datos visuales y aprenden a generar nuevas imágenes que imitan la distribución de los datos de entrenamiento. Modelos recientes como Midjourney y Stable Difussion han demostrado una impresionante habilidad para generar imágenes de alta calidad y detalladas, abriendo nuevas posibilidades en una variedad de campos. En este problema los participantes deberán desarrollar un sistema utilizando la Inteligencia Artificial generativa para diseñar de manera automática y personalizada flyers para eventos basándose en especificaciones proporcionadas.
+Las IA de generación de imágenes se refieren a una clase de algoritmos de inteligencia artificial conocidos como modelos generativos. Estos modelos se entrenan con grandes cantidades de datos visuales y aprenden a generar nuevas imágenes que imitan la distribución de los datos de entrenamiento. Modelos recientes como Midjourney y Stable Difussion han demostrado una impresionante habilidad para generar imágenes de alta calidad y detalladas, abriendo nuevas posibilidades en una variedad de campos. En este problema los participantes deberán desarrollar un sistema utilizando la Inteligencia Artificial generativa para diseñar de manera automática y personalizada flyers para eventos basándose en especificaciones proporcionadas. 
 
 ## Importancia
 
