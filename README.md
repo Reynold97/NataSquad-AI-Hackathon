@@ -8,7 +8,7 @@
 
 ## Sobre el Evento
 
-El evento consta de 4 problemas de Machine Learning y 3 problemas de IA generativa. Los participantes tienen total libertad para elegir el campo en el que más les interesaría trabajar con nosotros y seleccionar el problema que prefieran dentro de ese campo. No es necesario alcanzar los primeros lugares para conseguir la oportunidad laboral, ya que buscamos formar un equipo más grande. Después del hackathon, todos los participantes que hayan resuelto uno de los problemas cumpliendo todos los requisitos y siguiendo buenas prácticas podrán enviar sus CV y participar en una entrevista.
+El evento consta de 4 problemas de Machine Learning, 3 problemas de IA generativa y 1 de Computer Vision. Los participantes tienen total libertad para elegir el campo en el que más les interesaría trabajar con nosotros y seleccionar el problema que prefieran dentro de ese campo. No es necesario alcanzar los primeros lugares para conseguir la oportunidad laboral, ya que buscamos formar un equipo más grande. Después del hackathon, todos los participantes que hayan resuelto uno de los problemas cumpliendo todos los requisitos y siguiendo buenas prácticas podrán enviar sus CV y participar en una entrevista.
 
 Los problemas están diseñados para ser resueltos en un período de 2 semanas trabajando 2 horas diarias. Los participantes deben tener en cuenta que la evaluación para el ranking del hackathon será por UN SOLO PROBLEMA, el cual deben especificar, en la sección de Modelo de participacion se explicará cómo. No obstante, para la etapa posterior de entrevistas pueden preparar más problemas e incluso en ambos campos de IA generativa y Machine Learning.
 
@@ -30,7 +30,7 @@ Esperamos ver tu participación en este emocionante evento. ¡Buena suerte a tod
 
 ## Modelo de participación.
 
-El repositorio consta de dos carpetas en donde están los problemas de Machine Learning e IA Generativa respectivamente. Cada problema tiene su carpeta dedicada en donde podrán encontrar información introductoria sobre cada uno. En la fecha marcada para el inicio del evento se actualizará el repositorio con toda la información de cada problema y los juegos de datos en los casos que sean necesarios. 
+El repositorio consta de tres carpetas en donde están los problemas de Machine Learning, IA Generativa y Computer Vision respectivamente. Cada problema tiene su carpeta dedicada en donde podrán encontrar información introductoria sobre cada uno. En la fecha marcada para el inicio del evento se actualizará el repositorio con toda la información de cada problema y los juegos de datos en los casos que sean necesarios. 
 El método de participación es levantando una Issue en el repositorio del evento. 
 
 #### MUY IMPORTANTE
