@@ -23,24 +23,44 @@ Accuracy, Recall, Precision, F1-score, Confusion Matrix, AUC-ROC Curve.
 ## Información sobre el conjunto de datos.
 
 Las características disponibles en el conjunto de datos son las siguientes:
+
 •	customerID: ID del cliente
+
 •	gender: Género del cliente
+
 •	SeniorCitizen: Si el cliente es un ciudadano mayor o no
+
 •	Partner: Si el cliente tiene un socio o no
+
 •	Dependents: Si el cliente tiene dependientes o no
+
 •	tenure: Número de meses que el cliente ha estado con la compañía
+
 •	PhoneService: Si el cliente tiene un servicio telefónico o no
+
 •	MultipleLines: Si el cliente tiene múltiples líneas o no
+
 •	InternetService: Proveedor de servicios de internet del cliente
+
 •	OnlineSecurity: Si el cliente tiene seguridad en línea o no
+
 •	OnlineBackup: Si el cliente tiene respaldo en línea o no
 •	DeviceProtection: Si el cliente tiene protección de dispositivo o no
+
 •	TechSupport: Si el cliente tiene soporte técnico o no
+
 •	StreamingTV: Si el cliente tiene TV en streaming o no
+
 •	StreamingMovies: Si el cliente tiene películas en streaming o no
+
 •	Contract: El término del contrato del cliente
+
 •	PaperlessBilling: Si el cliente tiene facturación electrónica o no
+
 •	PaymentMethod: El método de pago del cliente
+
 •	MonthlyCharges: La cantidad que se le cobra al cliente mensualmente
+
 •	TotalCharges: La cantidad total que se le ha cobrado al cliente
+
 •	Churn: Si el cliente abandonó 
