@@ -10,7 +10,7 @@ La capacidad de contar con un modelo que pueda anticipar la frescura de las frut
 
 ## Desarrollo del problema técnico
 
-Los participantes deberán utilizar el conjunto de datos "Fresh and Rotten/Stale Fruits and Vegetables Classification Dataset" que contiene una amplia variedad de imágenes de frutas y verduras capturadas en diferentes condiciones de iluminación, ángulos y fondos. Cada imagen está etiquetada para indicar si el artículo es fresco o podrido/pasado. El desafío consiste en desarrollar un modelo de clasificación de imágenes que pueda identificar correctamente el estado de frescura de los diferentes tipos de productos.
+Los participantes deberán utilizar un conjunto de datos que contiene una amplia variedad de imágenes de frutas y verduras capturadas en diferentes condiciones de iluminación, ángulos y fondos. Cada imagen está etiquetada para indicar si el artículo es fresco o podrido/pasado. El desafío consiste en desarrollar un modelo de clasificación de imágenes que pueda identificar correctamente el estado de frescura de los diferentes tipos de productos.
 Los participantes deberán entrenar y evaluar sus modelos de aprendizaje profundo, como redes neuronales convolucionales (CNN), para lograr la máxima precisión en la clasificación. Se anima a explorar y utilizar modelos pre entrenados y realizar ajuste fino. El objetivo final es desarrollar un modelo de clasificación de imágenes preciso y robusto que pueda aplicarse en diversas aplicaciones.
 
 #### Tip: Respetar y explicar los supuestos de los modelos utilizados.
