@@ -8,7 +8,7 @@
 
 ## Sobre el Evento
 
-El evento consta de 4 problemas de Machine Learning, 3 problemas de IA generativa y 1 de Computer Vision. Los participantes tienen total libertad para elegir el campo en el que más les interesaría trabajar con nosotros y seleccionar el problema que prefieran dentro de ese campo. No es necesario alcanzar los primeros lugares para conseguir la oportunidad laboral, ya que buscamos formar un equipo más grande. Después del hackathon, todos los participantes que hayan resuelto uno de los problemas cumpliendo todos los requisitos y siguiendo buenas prácticas podrán enviar sus CV y participar en una entrevista.
+El evento consta de 4 problemas de Machine Learning, 3 problemas de IA Generativa y 1 de Computer Vision. Los participantes tienen total libertad para elegir el campo en el que más les interesaría trabajar con nosotros y seleccionar el problema que prefieran dentro de ese campo. No es necesario alcanzar los primeros lugares para conseguir la oportunidad laboral, ya que buscamos formar un equipo más grande. Después del hackathon, todos los participantes que hayan resuelto uno de los problemas cumpliendo todos los requisitos y siguiendo buenas prácticas podrán enviar sus CV y participar en una entrevista.
 
 Los problemas están diseñados para ser resueltos en un período de 2 semanas trabajando 2 horas diarias. Los participantes deben tener en cuenta que la evaluación para el ranking del hackathon será por UN SOLO PROBLEMA, el cual deben especificar, en la sección de Modelo de participacion se explicará cómo. No obstante, para la etapa posterior de entrevistas pueden preparar más problemas e incluso en ambos campos de IA generativa y Machine Learning.
 
@@ -58,6 +58,8 @@ Cuerpo: Nombre completo, correo, número de teléfono, link del repositorio prop
 6 QR Code Design
 
 7 Customized Event Flyers
+
+8 Computer Vision
 
 ### Ejemplo:
 
