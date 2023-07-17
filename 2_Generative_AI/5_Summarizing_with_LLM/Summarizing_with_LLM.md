@@ -18,24 +18,41 @@ La gestión de las referencias bibliográficas es una tarea básica de todo inve
 No es raro que un investigador encuentre en sus carpetas archivos BibTeX, sin el contexto adecuado, de los cuales es difícil saber a priori si contienen alguna información relevante para su investigación actual. Por ello, les puede resultar útil una herramienta que a partir de un archivo BibTeX genere un resumen de todo el contenido incluido en esa bibliografía.
 
 Se le solicita que cree un agente que reciba un archivo BibTeX como entrada y devuelva un informe de texto que:
+
 • resumir todos los temas abordados en los documentos a los que se hace referencia
+
 • resaltar los documentos, investigadores e instituciones considerados más importantes para cada tema
 
 Algunos elementos a tener en cuenta:
+
 • BibTeX es un formato que almacena los metadatos de los documentos (papers, actas de congresos, libros, informes, etc…), el agente debe encargarse de buscar y descargar los archivos, en caso de ser necesario.
+
 • Existe un amplio ecosistema de recursos en Internet en torno a la investigación científica, una lista no exhaustiva incluye:
+
 ◦ https://www.crossref.org
+
 ◦ https://openalex.org
+
 ◦ https://opencitations.net
+
 ◦ https://scholar.google.com
+
 ◦ https://zenodo.org/
+
 ◦ https://figshare.com/
 
 Algunas herramientas que pueden resultarle útiles para crear el agente son:
+
 • LangChain
+
 • Índice Lama
+
 • https://huggingface.co/
+
 • https://www.trychroma.com/
+
 • https://weaviate.io/
+
 • https://faiss.ai/
+
 • https://serpapi.com/
