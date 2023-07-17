@@ -15,6 +15,10 @@ Los participantes deberán entrenar y evaluar sus modelos de aprendizaje profund
 
 #### Tip: Respetar y explicar los supuestos de los modelos utilizados.
 
+El juego de datos de prueba (test dataset) para la evaluación de los modelos será el último 10% del juego de datos. Se evaluarán las siguientes métricas: 
+
+Accuracy, Recall, Precision, F1-score, Confusion Matrix, AUC-ROC Curve.
+
 ## Información sobre el conjunto de datos.
 
 Variedad de imágenes: el conjunto de datos contiene una cantidad sustancial de imágenes, con una variación significativa en las condiciones de iluminación, los ángulos y los fondos. Esta diversidad ayuda a imitar escenarios del mundo real y desafía los modelos de clasificación para que sean sólidos y precisos en diversas condiciones.
